@@ -48,11 +48,3 @@ Mantenha a pasta `assets/` ao lado do `index.html`.
 | `assets/logo-gvs.png`, `logo-gvs-negativa.png` | logo oficial (tema claro / escuro) |
 | `assets/soul.png` | Soul completo (usado no menu), recortado de `soul-original.png` |
 | `assets/soul-base.png`, `soul-botas.png`, `soul-capacete.png` | camadas do Soul: base sem capacete e sem botas, mais botas e capacete sobrepostos |
-
-## Governança (pendente com o I&T)
-
-- Responsável técnico: a definir · Área demandante: a definir · Hospedagem: a definir.
-- Publicação em ambiente corporativo exige homologação e comunicação ao I&T.
-- Se o jogo ganhar ranking compartilhado, a identificação deve usar o e-mail `@grupogvs.com.br` (SSO) e passar por validação do I&T.
-- Tecnologia de referência: repositório `itsR0sen/Doodle-Jump` (C++/SFML, sem licença declarada). Nenhum código foi copiado; apenas as regras gerais (plataformas recicladas, gravidade, rolagem da câmera) serviram de inspiração.
-- O sprite do Soul deve ser substituído pela arte oficial com fundo transparente, se o Marketing disponibilizar.
